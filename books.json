@@ -1,0 +1,7 @@
+{
+  "ISBN": {"S": "978-0134685991"},
+  "Genre": {"S": "Technology"},
+  "Title": {"S": "Effective Java"},
+  "Author": {"S": "Joshua Bloch"},
+  "Stock": {"N": "1"}
+}
